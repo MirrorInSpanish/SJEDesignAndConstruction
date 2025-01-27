@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(to right, black,red,gold);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url("home\ remodel.jpg");
+    background-size: cover;
+}
+
+h1,h2,h3,h4,li,form,p1,p2{
+    color:gold;
+    font-family:"consolas","sans-serif";
+}
+h1{
+    font-family:"consolas","sans-serif";
+    font-style:italic;
+    text-decoration: red underline;
+    font-size: 40x; 
+}
+#box1{
+    border: 5px solid yellow;
+    width: 250px;
+    height: 500px;
+    background:black;
+}
+#box2{
+    border: 5px solid yellow;
+    width:300px;
+    height: 20nn00x;
+    background:black;  
+}
