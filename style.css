@@ -21,10 +21,12 @@ h1{
     width: 250px;
     height: 500px;
     background:black;
+    padding: 10px;  
 }
 #box2{
     border: 5px solid yellow;
     width:300px;
-    height: 20nn00x;
-    background:black;  
+    height: 200x;
+    background:black;
+    padding: 10px;  
 }
